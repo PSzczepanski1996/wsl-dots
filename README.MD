@@ -1,5 +1,5 @@
 # WSL Dot files for my probably actual setup
-[winporn](winporn.png)
+![winporn](winporn.png)
 ### Tested on:
 - Windows 10 1803
 - Ubuntu 18.04
